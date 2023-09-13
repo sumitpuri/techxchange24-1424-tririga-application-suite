@@ -4,6 +4,15 @@
 
 Prepare `env.list` file and update the below environment variables.
 
+Open `Files`
+
+<img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/c3b3ac76-2864-4dad-8f59-73a30d7ace48">
+
+`env.list` file is under `Documents`
+
+<img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/7a394cb5-b986-4b27-9a99-eb515df4bfc4">
+
+
 <br>
 
 Sample `env.list`
@@ -21,7 +30,7 @@ WML_INSTALL=false
  
 Login to OpenShift Cluster
  - Open `OpenShift Web Console`
- - Click `IAM#<your_email_id>` on top right.
+ - Click `ocadmin` on top right.
  - Click `Copy Login Command`
  - Display Token
  - Copy the value after `--server=`
@@ -32,7 +41,7 @@ Login to OpenShift Cluster
  
 Login to OpenShift Cluster
  - Open `OpenShift Web Console`
- - Click `IAM#<your_email_id>` on top right.
+ - Click `ocadmin` on top right.
  - Click `Copy Login Command`
  - Display Token
  - Copy the value after `--token=`
@@ -41,7 +50,10 @@ Login to OpenShift Cluster
 <br>
 <details><summary><b>ENTITLEMENT_KEY</b></summary>
  
-Obtain Entitlement Key from this [URL](https://myibm.ibm.com/products-services/containerlibrary)
+Use Existing Entitlement Key present in the `env.list` file.
+
+<br> 
+Otherwise, check your entitlement using this [URL](https://myibm.ibm.com/products-services/containerlibrary)
 </details>
 
 <br>
@@ -49,8 +61,10 @@ Obtain Entitlement Key from this [URL](https://myibm.ibm.com/products-services/c
  
 Navigate to Storage > StorageClasses in the OpenShift cluster to view available options. 
 
-- IBM Cloud uses `ibmc-file-gold-gid` 
-- OpenShift Data Foundation (ODF) uses `ocs-storagecluster-cephfs` 
+- OpenShift Data Foundation (ODF) uses `ocs-storagecluster-cephfs`
+- IBM Cloud uses `ibmc-file-gold-gid`
+
+Select  `ocs-storagecluster-cephfs`
 
 </details>
  
