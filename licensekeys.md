@@ -32,3 +32,7 @@ Navigate to `System Info` and locak the system
 
 Navigate to `Licenses for Application Suite` > SLS Upload Entitlement File
 
+### Step 5 - Validate License for System user
+
+Navigate to `Licenses` and select the TAS-Base license. Validate that `system` user is associated to it.
+
