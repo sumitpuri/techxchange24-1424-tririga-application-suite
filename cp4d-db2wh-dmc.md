@@ -1,4 +1,4 @@
-# Cloud Pak for Data - db2wh
+# Cloud Pak for Data - DB2 Warehouse (db2wh) and Data Management Console (DMC)
 
 ### Step 1 - Obtain CP4D Secret
 
