@@ -1,5 +1,8 @@
 # TRIRIGA Application Suite (TAS) 11.4 Out of Box Installation
 
+> TAS Installation script will always be `IDEMPOTENT`
+
+
 ### Step 1 - Prepare environment variables file
 
 Prepare `env.list` file and update the below environment variables.
