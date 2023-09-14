@@ -1,4 +1,4 @@
-# Setup License Keys
+# Setup License Keys (App Points)
 
 Obtain your license key = AppPoints from [Rational License Key Center](https://licensing.flexnetoperations.com/control/ibmr/login?nextURL=%2Fcontrol%2Fibmr%2Fibmrindex)
 
