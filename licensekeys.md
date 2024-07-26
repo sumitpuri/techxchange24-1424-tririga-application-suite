@@ -15,7 +15,11 @@ License Key for this exercise is provide under Files > Documents as shown
 
 Navigate to Workloads > Secrets and search for `system-user`
 
+<img width="1139" alt="image" src="https://github.com/user-attachments/assets/c08294b6-1fde-424b-806d-93fe6a7e8bb0">
+
 Obtain the password from the Secret
+
+<img width="1140" alt="image" src="https://github.com/user-attachments/assets/1bebb65a-0e61-47ca-8fdc-2a234b68801d">
 
 Login using `system` and obtained password
 
