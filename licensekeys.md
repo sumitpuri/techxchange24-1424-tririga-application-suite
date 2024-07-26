@@ -49,3 +49,11 @@ Navigate to `Licenses for Application Suite` > SLS Upload Entitlement File
 
 Navigate to `Licenses` and select the TAS-Base license. Validate that `system` user is associated to it.
 
+### Step 7 - Unlock the system
+
+Navigate to `System Info` and unlock the system
+
+### Step 8 - Login to TRIRIGA
+
+Login to TRIRIGA using the `system` and password obtained above.
+
