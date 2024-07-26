@@ -1,4 +1,4 @@
-# Upgrade TAS 11.4 to TAS 11.5
+# Upgrade TAS 11.5 to TAS 11.6
 
 ### Step 1 - Navigate to TAS Operator
 
@@ -15,7 +15,7 @@
 
 ### Step 3 - Update the Channel
 
-Update the channel to 11.5
+Update the channel to 11.6
 
 <img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/9fb99299-9e2e-441b-9beb-9ed03ba93c2d">
 
