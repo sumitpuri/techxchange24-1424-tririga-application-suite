@@ -1,4 +1,4 @@
-# TRIRIGA Application Suite (TAS) 11.4 Out of Box Installation
+# TRIRIGA Application Suite (TAS) 11.5 Out of Box Installation
 
 > TAS Installation script will always be `IDEMPOTENT`
 
@@ -24,8 +24,8 @@ Sample `env.list`
 OC_URL=https://c104-e.us-south.containers.cloud.ibm.com:32719
 OC_TOKEN=sha256~h69AmaHb3LckBXWUzJk1iTKTOigyt19X36fDCg1JJlw
 ENTITLEMENT_KEY=eyJhbGciOiJIUzI1NiJ9EO8WX4JTFQPCT1imFzl2Pgrhyrhfg
-STORAGE_CLASS=ibmc-file-gold-gid
-WML_INSTALL=false
+STORAGE_CLASS=ocs-storagecluster-cephfs
+BLOCK_STORAGE_CLASS=ocs-storagecluster-cephfs
 ```
 
 <br>
@@ -71,23 +71,19 @@ Select  `ocs-storagecluster-cephfs`
 
 </details>
  
-<br>
-<details><summary><b>WML_INSTALL</b></summary>
- 
-`WML_INSTALL=true` -> Installs Watson Machine Learning Service
- 
-`WML_INSTALL=false` -> Does not install Watson Machine Learning Service
-</details>
 
 ### Step 2 - Install TRIRIGA Application Suite
 
 ```
-docker run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.4
+docker run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.5
 ```
 > This process will take about 1.5 hrs to complete.
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/17460841-9582-4ae2-966c-0901e5444fc8">
+
 
 TRIRIGA server details can be printed by running
 
 ```
-docker run -ti --env-file env.list quay.io/sumitpuri0/tas11.4 ./tas-oob-status.sh
+docker run -ti --env-file env.list quay.io/sumitpuri0/tas11.5 ./tas-oob-status.sh
 ```
