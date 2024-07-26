@@ -71,7 +71,19 @@ Select  `ocs-storagecluster-cephfs`
 
 </details>
  
+<br>
+<details><summary><b>BLOCK_STORAGE_CLASS</b></summary>
+ 
+Navigate to Storage > StorageClasses in the OpenShift cluster to view available options. 
 
+- OpenShift Data Foundation (ODF) uses `ocs-storagecluster-cephfs`
+- IBM Cloud uses `ibmc-file-gold-gid`
+
+Select  `ocs-storagecluster-cephfs`
+
+</details>
+
+ 
 ### Step 2 - Install TRIRIGA Application Suite
 
 ```
