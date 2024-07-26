@@ -1,4 +1,4 @@
-# [1424] IBM TechXchange 2024 - Unleash TRIRIGA Application Suite on OpenShift: A Comprehensive Primer
+# IBM TechXchange 2024 - Unleash TRIRIGA Application Suite on OpenShift: A Comprehensive Primer [1424]
 
 Below are the hands-on exercises for the session:
 
