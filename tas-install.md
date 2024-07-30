@@ -87,7 +87,7 @@ Select  `ocs-storagecluster-cephfs`
 ### Step 2 - Install TRIRIGA Application Suite
 
 ```
-docker run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.5
+podman run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.5
 ```
 > This process will take about 1.5 hrs to complete.
 
