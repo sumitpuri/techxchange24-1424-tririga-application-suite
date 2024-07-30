@@ -97,5 +97,5 @@ podman run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.5
 TRIRIGA server details can be printed by running
 
 ```
-docker run -ti --env-file env.list quay.io/sumitpuri0/tas11.5 ./tas-oob-status.sh
+podman run -ti --env-file env.list quay.io/sumitpuri0/tas11.5 ./tas-oob-status.sh
 ```
