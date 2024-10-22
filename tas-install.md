@@ -7,7 +7,7 @@
 
 Prepare `env.list` file and update the below environment variables.
 
-Open `Files`
+Navigate to Home > Documents
 
 <img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/c3b3ac76-2864-4dad-8f59-73a30d7ace48">
 
