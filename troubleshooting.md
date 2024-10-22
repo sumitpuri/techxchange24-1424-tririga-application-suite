@@ -41,6 +41,9 @@ Click Installed Operators > IBM TRIRIGA Application Suite > Tririga > `tas-oob`.
 
 Change the `vault_secret` value from `na` to `tas-vault-secret` and click Save.
 
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/987c012b-1a6b-4cd5-9cf2-7de61a25ae56">
+
+
 ### Step 4 - Monitor the progress
 
 Monitor the `tas-oob` instance to confirm that error has been resolved.
