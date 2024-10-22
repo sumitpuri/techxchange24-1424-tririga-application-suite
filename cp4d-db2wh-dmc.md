@@ -28,14 +28,6 @@ Obtain DB Details:
 
 <img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/aa262dc0-7158-433e-b809-ca4b4454eda9">
 
-### Step 4 - Open TAS DB
-
-<img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/cb9542ba-3fa3-4582-9c83-9a843d833d86">
-
-
-<img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/fc37e90f-02f2-4d3a-b39c-e403945cc719">
-
-
 
 
 
