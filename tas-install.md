@@ -87,6 +87,12 @@ Select  `ocs-storagecluster-cephfs`
  
 ### Step 2 - Install TRIRIGA Application Suite
 
+Open the Linux terminal and navigate to Documents using:
+
+```
+cd Documents
+```
+
 ```
 podman run -ti --pull always --env-file env.list quay.io/sumitpuri0/tas11.5
 ```
