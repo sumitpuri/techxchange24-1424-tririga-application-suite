@@ -7,6 +7,7 @@ Below are the hands-on exercises for the session:
 - [Exercise 2 - TAS License Keys](licensekeys.md)
 - [Exercise 3 - Cloud Pak for Data - db2wh](cp4d-db2wh-dmc.md)
 - [Exercise 4 - Upgrade TAS](tas-upgrade.md)
+- [Exercise 5 - Troubleshooting](troubleshooting.md)
 
 
 
