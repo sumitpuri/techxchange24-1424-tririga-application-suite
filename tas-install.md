@@ -9,7 +9,8 @@ Prepare `env.list` file and update the below environment variables.
 
 Navigate to Home > Documents
 
-<img width="1152" alt="image" src="https://github.com/sumitpuri/techxchange23-2064-tririga-application-suite/assets/6925028/c3b3ac76-2864-4dad-8f59-73a30d7ace48">
+<img width="1151" alt="image" src="https://github.com/user-attachments/assets/202f1884-4457-483d-bdc3-628c8f120fa9">
+
 
 `env.list` file is under `Documents`
 
