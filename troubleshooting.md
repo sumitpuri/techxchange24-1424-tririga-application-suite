@@ -46,7 +46,10 @@ Change the `vault_secret` value from `na` to `tas-vault-secret` and click Save.
 
 ### Step 4 - Monitor the progress
 
-Monitor the `tas-oob` instance to confirm that error has been resolved.
+Review the `tas-oob` instance to confirm that error has been resolved
+
+<img width="1151" alt="image" src="https://github.com/user-attachments/assets/ab68fdd8-613b-43a9-9eb1-217b2a696507">
+
 
 
 
