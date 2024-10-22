@@ -8,7 +8,8 @@ Navigate to Installed Operators > IBM TRIRIGA Application Suite > Tririga to vie
 
 Click on `tas-oob` and scroll to the bottom to review the failure cause
 
-<img width="1151" alt="image" src="https://github.com/user-attachments/assets/911393f3-ea2b-42db-ba83-e5cafefe88df">
+<img width="1151" alt="image" src="https://github.com/user-attachments/assets/73b8f024-e897-4be4-841b-5ea0390b97fa">
+
 
 
 
